@@ -723,6 +723,7 @@ exports.thanksto = () => {
 ├ DikaArdnt
 ├ Zeeoneofc
 ├ FatihArridho
+├ Vuzmm's
 ├ Sanzy
 ├ Yoga
 ├ RiychDwayne
