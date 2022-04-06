@@ -9,17 +9,17 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	zenz: '',
+	zenz: 'https://github.com/epanshop4',
 }
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://github.com/epanshop4': 'Your Key',
 }
 
 // Other
-global.owner = ['6281575','6281575886399','6281575886399']
-global.premium = ['6281575886399']
+global.owner = ['62882006377070','62882006377070','62882006377070']
+global.premium = ['62882006377070']
 global.ownername = '𝘔𝘶𝘩𝘢𝘮𝘢𝘥𝘌𝘱𝘢𝘯'
 global.botname = '𝘝𝘶𝘻𝘮𝘮𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦'
 global.footer = '𝘔𝘶𝘩𝘢𝘮𝘢𝘥𝘌𝘱𝘢𝘯'
@@ -27,7 +27,7 @@ global.ig = 'https://instagram.com/epannnotketche_'
 global.email = 'epanshop4@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.myweb = 'https://api-riychdwayne.herokuap.com'
+global.myweb = 'https://vt.tiktok.com/ZSdMJDNJ9/'
 global.packname = '𝘔𝘶𝘩𝘢𝘮𝘢𝘥 𝘌𝘱𝘢𝘯'
 global.author = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘉𝘰𝘵 𝘉𝘺 𝘔𝘶𝘩𝘢𝘮𝘢𝘥 𝘌𝘱𝘢𝘯'
 global.sessionName = 'chika'
